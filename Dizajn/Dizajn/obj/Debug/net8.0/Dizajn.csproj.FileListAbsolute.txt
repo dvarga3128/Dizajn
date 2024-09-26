@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\GitHub\Dizajn\Dizajn\Dizajn\obj\Debug\net8.0\Dizajn.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Dizajn\Dizajn\Dizajn\obj\Debug\net8.0\Dizajn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\Dizajn\Dizajn\Dizajn\obj\Debug\net8.0\Dizajn.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\Dizajn\Dizajn\Dizajn\obj\Debug\net8.0\Dizajn.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Dizajn\Dizajn\Dizajn\obj\Debug\net8.0\Dizajn.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Dizajn\Dizajn\Dizajn\obj\Debug\net8.0\Dizajn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Dizajn\Dizajn\Dizajn\obj\Debug\net8.0\Dizajn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\Dizajn\Dizajn\Dizajn\obj\Debug\net8.0\Dizajn.sourcelink.json
