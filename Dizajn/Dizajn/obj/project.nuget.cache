@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HST75fj2Aq4=",
+  "dgSpecHash": "Dec43rAWqgM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\github\\Dizajn\\Dizajn\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\github\\Dizajn\\Dizajn\\Dizajn\\Dizajn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

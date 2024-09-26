@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\github\\Dizajn\\Dizajn\\WebAPI\\WebAPI.csproj",
-      "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Admin\\Documents\\github\\Dizajn\\Dizajn\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\github\\Dizajn\\Dizajn\\Dizajn\\Dizajn.csproj",
+      "projectName": "Dizajn",
+      "projectPath": "C:\\Users\\Admin\\Documents\\github\\Dizajn\\Dizajn\\Dizajn\\Dizajn.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\github\\Dizajn\\Dizajn\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\github\\Dizajn\\Dizajn\\Dizajn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
