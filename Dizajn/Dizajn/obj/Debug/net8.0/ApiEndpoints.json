@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Dizajn.Controllers.DizajnerController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Dizajner",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dizajn.Controllers.DizajnerController",
+    "Method": "Post",
+    "RelativePath": "api/v1/Dizajner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dizajner",
+        "Type": "Dizajn.Models.Dizajner",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dizajn.Controllers.DizajnerController",
+    "Method": "GetBySifra",
+    "RelativePath": "api/v1/Dizajner/{sifra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dizajn.Controllers.DizajnerController",
+    "Method": "Put",
+    "RelativePath": "api/v1/Dizajner/{sifra}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dizajner",
+        "Type": "Dizajn.Models.Dizajner",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dizajn.Controllers.DizajnerController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Dizajner/{sifra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

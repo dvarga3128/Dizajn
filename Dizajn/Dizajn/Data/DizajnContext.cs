@@ -11,7 +11,7 @@ namespace Dizajn.Data
         }
 
 
-        public DbSet<Smjer> Dizajneri { get; set; }
+        public DbSet<Dizajner> Dizajneri { get; set; }
 
 
     }

@@ -1,11 +1,11 @@
 SELECT name, collation_name FROM sys.databases;
 GO
-ALTER DATABASE ucenjedizajn SET SINGLE_USER WITH
+ALTER DATABASE db_aad661_dizajn SET SINGLE_USER WITH
 ROLLBACK IMMEDIATE;
 GO
-ALTER DATABASE ucenjedizajn COLLATE Croatian_CI_AS;
+ALTER DATABASE db_aad661_dizajn COLLATE Croatian_CI_AS;
 GO
-ALTER DATABASE ucenjedizajn SET MULTI_USER;
+ALTER DATABASE db_aad661_dizajn SET MULTI_USER;
 GO
 SELECT name, collation_name FROM sys.databases;
 GO
