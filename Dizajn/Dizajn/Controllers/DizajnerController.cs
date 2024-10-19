@@ -48,7 +48,6 @@ namespace Dizajn.Controllers
         {
             var dizajnerBaza = _context.Dizajneri.Find(sifra);
 
-            // za sada ručno, kasnije mapper
             dizajnerBaza.Ime = dizajner.Ime;
             dizajnerBaza.Prezime = dizajner.Prezime;
             dizajnerBaza.Email = dizajner.Email;

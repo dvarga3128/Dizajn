@@ -13,7 +13,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<DizajnContext>(opcije =>
 {
-    opcije.UseSqlServer(builder.Configuration.GetConnectionString("EdunovaContext"));
+    opcije.UseSqlServer(builder.Configuration.GetConnectionString("DizajnContext"));
 });
 
 
@@ -27,7 +27,7 @@ app.UseSwaggerUI(o => {
     o.EnableTryItOutByDefault();
 
 });
-//}
+
 
 app.UseHttpsRedirection();
 
