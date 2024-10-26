@@ -11,7 +11,7 @@ async function get(){
     })
     .catch((e)=>{
         //console.log(e)
-        return {greska: true, poruka: 'Problem kod dohvaćanja Dizajnerova'}   
+        return {greska: true, poruka: 'Problem kod dohvaćanja Dizajnera'}   
     })
 }
 

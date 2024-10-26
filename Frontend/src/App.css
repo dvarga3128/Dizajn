@@ -1,7 +1,10 @@
 .ruka{
   cursor: pointer;
-  font-weight: bold;
-  color: #63122c;
+  font-weight: lighter;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: xx-large;
+  color: #000080;
 }
 
 .desno{
@@ -18,4 +21,8 @@
 
 .akcije{
   margin-top: 20px;
+}
+
+.slika1{
+  max-width: 500px;
 }
